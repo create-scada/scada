@@ -5,6 +5,11 @@
 
 ### **Prerequsisites**
 
+#### **Mongodb**
+
+
+- Download and install mongodb here:
+[https://www.mongodb.com/try/download/community/](https://www.mongodb.com/try/download/community)
 
 #### **Node.js**
 
