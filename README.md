@@ -3,7 +3,7 @@
 
 ## **Installation**
 
-### **Prerequsisites**
+### **Prerequisites**
 
 
 #### **Mongodb**
@@ -16,7 +16,7 @@
 #### **Node.js**
 
 
-- Download and istall node here:
+- Download and install node here:
 [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
 #### **Python**
@@ -25,7 +25,7 @@
 Download and install python here:
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-    -- alternatively, you can install pyenv to manage different version of python. Installation instructions can be found here: 
+    -- Alternatively, you can install pyenv to manage different version of python. Installation instructions can be found here: 
     [https://github.com/pyenv/pyenv#installation](https://github.com/pyenv/pyenv#installation)
 
 
@@ -46,7 +46,7 @@ Download and install python here:
 
 1. In a terminal window, navigate to the Lumen-Server directory.
 
-2. To setup the virtual ennvironment, run the command:
+2. To setup the virtual environment, run the command:
     ```sh
     pipenv install
     ```
